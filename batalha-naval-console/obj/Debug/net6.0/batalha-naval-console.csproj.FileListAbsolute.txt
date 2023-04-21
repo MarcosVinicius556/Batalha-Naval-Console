@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\bin\Debug\net6.0\batalha-naval-console.exe
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\bin\Debug\net6.0\batalha-naval-console.deps.json
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\bin\Debug\net6.0\batalha-naval-console.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\bin\Debug\net6.0\batalha-naval-console.dll
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\bin\Debug\net6.0\batalha-naval-console.pdb
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.dll
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\refint\batalha-naval-console.dll
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.pdb
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\batalha-naval-console.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\faculdade\Curso C# Udemy\batalha-naval-console\batalha-naval-console\obj\Debug\net6.0\ref\batalha-naval-console.dll
